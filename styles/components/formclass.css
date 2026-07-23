@@ -1,0 +1,21 @@
+.formclass,
+.formclass__login {
+  background-color: oklch(90% 0.002 247.839);
+  width: 85%;
+  padding: 3rem 1.5rem;
+  margin: auto;
+  border-radius: 10px;
+}
+
+.allforms{
+  min-height: 100vh;
+}
+
+/* Mobile fix */
+@media (max-width: 576px) {
+  .formclass,
+  .formclass__login {
+    width: 100%;
+    padding: 2rem 1rem;
+  }
+}

@@ -1,0 +1,157 @@
+body {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.final_form input,
+.final_form select {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  width: 100%;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}
+
+.gapSpace {
+  margin-top: 2rem;
+}
+.final_indexform input {
+  width: 50px; /* better size for quantity */
+  padding: 0.25rem;
+  margin-left: 0; /* remove the offset */
+  font-size: 1rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  text-align: center; /* centers the number inside */
+}
+
+/* Tablet */
+@media (min-width: 576px) {
+  .final_form {
+    max-width: 450px;
+    margin: auto;
+  }
+}
+
+/* Desktop */
+@media (min-width: 768px) {
+  .final_form {
+    max-width: 500px;
+  }
+}
+
+/* -------------------------------------------------------------- */
+/* userupload */
+/* -------------------------------------------------------------- */
+
+/* Center everything on the page */
+.dashboard-wrapper {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+/* Profile container */
+.profile-box {
+  background: oklch(90% 0.002 247.839);
+  padding: 2rem;
+  border-radius: 12px;
+  text-align: center;
+  width: 100%;
+  max-width: 450px;
+}
+.nav_profile {
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+.mythumbnail {
+  margin-top: -1rem;
+}
+
+/* Profile image */
+.profile-img img {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid #00897b;
+  margin-bottom: 1rem;
+}
+.profile-imgnav {
+  width: 50px;
+  height: 50px;
+  border-radius: 25%;
+  object-fit: cover;
+  border: 3px solid #00897b;
+  margin-bottom: 1rem;
+}
+
+/* Name text */
+.profile-name {
+  font-size: 1.5rem;
+  font-weight: 700;
+  margin-bottom: 2rem;
+}
+
+/* Forms */
+.dash-form {
+  margin-bottom: 1.5rem;
+}
+
+.file-input {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
+/* Buttons */
+.mybtn {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  background-color: #e91e63;
+  color: white;
+  border-radius: 6px;
+  font-weight: 600;
+  text-align: center;
+  border: none;
+}
+
+.mybtn:hover {
+  transform: translateY(-4px);
+}
+
+/* Skip button (styled like a button) */
+.skip-btn {
+  display: block;
+  text-decoration: none;
+  background-color: #00897b;
+  padding: 0.75rem;
+  color: white;
+  border-radius: 6px;
+  margin-bottom: 0.5rem;
+}
+
+/* Responsive tweaks */
+@media (min-width: 768px) {
+  .profile-box {
+    max-width: 500px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .profile-box {
+    max-width: 550px;
+  }
+}

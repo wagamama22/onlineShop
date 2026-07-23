@@ -1,0 +1,19 @@
+.foot {
+  background-color: black;
+  padding: 1.5rem;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+@media (min-width: 768px) {
+  .foot {
+    padding: 3rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .foot {
+    padding: 5rem;
+  }
+}
