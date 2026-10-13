@@ -148,11 +148,15 @@ This project helped me develop practical experience in:
 - structured UI and responsive design
 - deployment considerations for hosted projects
 
-Author
-Morgan Ofodum
+## Author
+
+Morgan Chinedu Ofodum
+
 Junior Software Developer 
-Portfolio
-Live Application: https://onlineshop.morganugochukwu.com/shopping_cart/index.php
+
+### Portfolio Live Application: 
+
+https://onlineshop.morganugochukwu.com/shopping_cart/index.php
 
 ## Business Value
 
