@@ -1,9 +1,13 @@
 # OnlineShop - PHP E-Commerce Web Application (Academic Project)
 
 A full-stack e-commerce web application built in PHP and MySQL to demonstrate practical software development skills in web application architecture, database integration, user authentication, order tracking, and profile management.
-Live demo:
+
+### Live demo:
+
 https://onlineshop.morganugochukwu.com/shopping_cart/index.php
-Project Overview
+
+## Project Overview
+
 OnlineShop is a database-driven web application that simulates a real-world retail experience for both customers and administrators. It was developed as a portfolio project to strengthen my understanding of backend logic, data handling, session management, role-based access, and user-centred product workflows.
 The system enables users to:
 - Register and create accounts
