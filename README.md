@@ -9,6 +9,7 @@ https://onlineshop.morganugochukwu.com/shopping_cart/index.php
 ## Project Overview
 
 OnlineShop is a database-driven web application that simulates a real-world retail experience for both customers and administrators. It was developed as a portfolio project to strengthen my understanding of backend logic, data handling, session management, role-based access, and user-centred product workflows.
+
 The system enables users to:
 - Register and create accounts
 - Log in securely
