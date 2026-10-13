@@ -1,4 +1,4 @@
-# OnlineShop - PHP E-Commerce Web Application (Academic Project)
+# OnlineShop - E-Commerce Web Application (Academic Project)
 
 A full-stack e-commerce web application built in PHP and MySQL to demonstrate practical software development skills in web application architecture, database integration, user authentication, order tracking, and profile management.
 
