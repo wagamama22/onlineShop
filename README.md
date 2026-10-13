@@ -154,18 +154,31 @@ Junior Software Developer
 Portfolio
 Live Application: https://onlineshop.morganugochukwu.com/shopping_cart/index.php
 
-Business Value
+## Business Value
+
 This repository demonstrates:
+
 •	Full-stack development skills
+
 •	PHP and MySQL proficiency
+
 •	Database-driven application development
+
 •	Frontend and backend integration
+
 •	Production deployment experience
+
 •	Independent project ownership
+
 •	Practical problem-solving abilities
+
 I am actively seeking opportunities as a:
+
 •	Junior Software Developer
+
 •	Graduate Software Engineer
+
 •	Associate Software Developer
+
 •	Web Application Developer
 
