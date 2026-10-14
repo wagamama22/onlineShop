@@ -1,4 +1,4 @@
-# OnlineShop - E-Commerce Web Application (Academic Project)
+# OnlineShop : E-Commerce Web Application (Academic Project)
 
 A full-stack e-commerce web application built in PHP and MySQL to demonstrate practical software development skills in web application architecture, database integration, user authentication, order tracking, and profile management.
 
@@ -198,9 +198,7 @@ I am actively seeking opportunities where I can contribute, learn from experienc
 I am particularly interested in graduate and junior-level opportunities within innovative technology and consulting organisations.
 
 
-### Portfolio Live Application: 
 
-https://onlineshop.morganugochukwu.com/shopping_cart/index.php
 
 
 
