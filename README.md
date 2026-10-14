@@ -153,6 +153,24 @@ This project helped me develop practical experience in:
 - structured UI and responsive design
 - deployment considerations for hosted projects
 
+## Business Value
+
+This repository demonstrates:
+
+•	Full-stack development skills
+
+•	PHP and MySQL proficiency
+
+•	Database-driven application development
+
+•	Frontend and backend integration
+
+•	Production deployment experience
+
+•	Independent project ownership
+
+•	Practical problem-solving abilities
+
 ## Author
 
 Morgan Chinedu Ofodum
@@ -184,21 +202,5 @@ I am particularly interested in graduate and junior-level opportunities within i
 
 https://onlineshop.morganugochukwu.com/shopping_cart/index.php
 
-## Business Value
 
-This repository demonstrates:
-
-•	Full-stack development skills
-
-•	PHP and MySQL proficiency
-
-•	Database-driven application development
-
-•	Frontend and backend integration
-
-•	Production deployment experience
-
-•	Independent project ownership
-
-•	Practical problem-solving abilities
 
