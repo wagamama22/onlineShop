@@ -162,10 +162,15 @@ Junior Software Developer
 ### Areas of interest include:
 
 •	Software Development
+
 •	Front-End Engineering
+
 •	Web Applications
+
 •	JavaScript Development
+
 •	Enterprise Software Solutions
+
 •	Technology Consulting
 
 I am actively seeking opportunities where I can contribute, learn from experienced teams, and continue developing into a high performing software professional.
@@ -196,14 +201,4 @@ This repository demonstrates:
 •	Independent project ownership
 
 •	Practical problem-solving abilities
-
-I am actively seeking opportunities as a:
-
-•	Junior Software Developer
-
-•	Graduate Software Engineer
-
-•	Associate Software Developer
-
-•	Web Application Developer
 
